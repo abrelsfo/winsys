@@ -1,0 +1,30 @@
+{
+  "name": "winsys",
+  "version": "0.0.0",
+  "description": "Gets the windows system information and returns it as an object",
+  "main": "winsys.js",
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrelsfo/winsys.git"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "systeminfo",
+    "windows",
+    "info",
+    "system",
+    "Alex"
+  ],
+  "bugs": {
+    "url": "https://github.com/abrelsfo/winsys/issues"
+  },
+  "engines": {
+    "node": ">=5.7.0"
+  },
+  "homepage": "https://github.com/abrelsfo/winsys#readme",
+  "author": "Alex Brelsford <alexbrelsford@gmail.com> (abrelsfo.github.io)",
+  "license": "MIT"
+}
