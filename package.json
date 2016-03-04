@@ -1,6 +1,6 @@
 {
   "name": "winsys",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gets the windows system information and returns it as an object",
   "main": "winsys.js",
   "dependencies": {
